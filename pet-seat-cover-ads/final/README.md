@@ -6,8 +6,9 @@ Built locally from product flat lays + lifestyle shots. Competitor patterns from
 
 | File | Use |
 |------|-----|
-| `usage-video-ad-9x16.mp4` | **Primary** realistic usage video (~14.7s, 1080×1920) based on competitor ad structure |
-| `video-ad-9x16.mp4` | Earlier slideshow-style cut (~12.6s) |
+| `live-usage-video-9x16.mp4` | **Primary** live-style usage video with human + dog (~15.2s, 1080×1920) |
+| `usage-video-ad-9x16.mp4` | Earlier realistic usage cut (~14.7s) |
+| `video-ad-9x16.mp4` | Slideshow-style cut (~12.6s) |
 | `photo-ad-01.jpg` | Square Meta ad — “Muddy Dog. Clean Seats.” |
 | `photo-ad-02.jpg` | Square Meta ad — “100% Waterproof Protection” |
 | `photo-ad-03.jpg` | Vertical Reels still — “Installs in 60 Seconds” |
